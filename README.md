@@ -1,4 +1,3 @@
-# Loan-Approval-Prediction
 # Loan Approval Prediction Using Random Forest
 
 ## 1. Project Overview
